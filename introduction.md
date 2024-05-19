@@ -16,8 +16,8 @@ Pick your environment below to start setting up and sending email:
 
 # New User: Set up domain 
 
-- Go to: http://gang.valeanu.org
-- Click on http://gang.valeanu.org/auth/sign-up
+- Go to: https://shoutbox.net
+- Click on https://shoutbox.net/auth/sign-up
 
 ![Screenshot 2024-05-08 at 14.41.56.png](./assets/f32f30d08e194e05a9b7533b4bfe6f0e.png)
 
@@ -33,7 +33,7 @@ and Sign up with your information.
 
 ![Screenshot 2024-05-08 at 14.44.25.png](./assets/b3a701e95abc4201961e74ef9e6608aa.png)
 
-Please see the guide here how to complete this step: [Cloudflare retrieve your Account ID & Secret Token](https://j.va5.com/shares/B6PE4pz7pvz4vHjH9UUhiw)
+Please see the guide here how to complete this step: [Cloudflare retrieve your Account ID & Secret Token](./cloudflare-retrieve-account-id-and-secret.md)
 
 - Click to add a Cloudflare Worker automatically
 
@@ -49,7 +49,7 @@ Please see the guide here how to complete this step: [Cloudflare retrieve your A
 
 ![Screenshot 2024-05-08 at 15.18.11.png](./assets/f60e0b0da37d46a3815a35b72f7027a1.png)
 
-- To make sure everything goes more smoothly, it is recommend to clean up the Cloudflare DNS first, click here to see how; [Cleanup Cloudflare DNS](https://j.va5.com/shares/MAQc42b0YFZOevTB2HOI0f)
+- To make sure everything goes more smoothly, it is recommend to clean up the Cloudflare DNS first, click here to see how; [Cleanup Cloudflare DNS](./cleanup-cloudflare-dns.md)
 
 - Click to automatically add the information in Cloudflare
 
