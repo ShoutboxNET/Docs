@@ -4,9 +4,9 @@ Shoutbox is a simple to use API for developers. Using any language that allows c
 
 Pick your environment below to start setting up and sending email: 
 
-[CURL](https://j.va5.com/shares/b3K6TMSsuooLnSQYOGVsRd)
+[CURL](./b3K6TMSsuooLnSQYOGVsRd)
 
-[NodeJS](https://j.va5.com/shares/BRcuD5CFnJ922YOKIATLHS)
+[NodeJS](./BRcuD5CFnJ922YOKIATLHS)
 
 
 # Prerequisites
